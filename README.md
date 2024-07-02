@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Adnan</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on [Inventory Application](https://github.com/adnansyed101/inventoryApp)
+- 🔭 I’m currently doing tge Level 1 Course of Programming Hero.
 
 - 🌱 I’m currently learning **Express**
 
