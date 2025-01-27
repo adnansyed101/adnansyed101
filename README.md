@@ -1,4 +1,4 @@
-![Banner](/gh-banner.jpg)
+![Banner](/gh-banner.png)
 
 <h1 align="center">Hey👋, My name is Md Adnan.</h1>
 
