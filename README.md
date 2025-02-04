@@ -1,7 +1,5 @@
 ![Banner](/gh-banner.png)
 
-<h1 align="center">Hey👋, My name is Md Adnan.</h1>
-
 ###
 
 <h3 align="center">A Full Stack Web Developer From Bangladesh.</h3>
