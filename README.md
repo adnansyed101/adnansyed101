@@ -12,7 +12,19 @@
   <img src="https://github-profile-trophy.vercel.app?username=adnansyed101&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-### Technologies I use
+### About Me
+<div align="center">
+  <p>I am a self sufficient programmer. I am completing my BBA from program. Though my education does not align with my carreer choice, this only shows my dedication for programming.</p>
+</div>
+---
+
+### Current Activities
+- Exploring Framer motion for animating website.
+- Learning Next Js.
+- Hope to complete typescript within the year.
+- Learning about colors for web designing.
+
+### My Skils
 ---
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
