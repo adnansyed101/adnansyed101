@@ -13,10 +13,11 @@
 </div>
 
 ### About Me
+---
 <div align="center">
   <p>I am a self sufficient programmer. I am completing my BBA from program. Though my education does not align with my carreer choice, this only shows my dedication for programming.</p>
 </div>
----
+
 
 ### Current Activities
 - Exploring Framer motion for animating website.
