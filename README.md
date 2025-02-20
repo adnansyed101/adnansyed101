@@ -15,7 +15,7 @@
 ### About Me
 ---
 <div align="center">
-  <p>I am a self sufficient programmer. I am completing my BBA from program. Though my education does not align with my carreer choice, this only shows my dedication for programming.</p>
+  <p>I am a self taught programmer. I am completing my BBA from ULAB Though my education does not align with my carreer choice, this only shows my dedication towards programming. I belief, I have the knowledge and dedication to satisfy and over deliver the customer needs. Further in life, I want to lead a team of my own and teach them how to be an asset for the firm.</p>
 </div>
 
 
