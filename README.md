@@ -19,12 +19,6 @@
 </div>
 
 
-### Current Activities
-- Exploring Framer motion for animating website.
-- Learning Next Js.
-- Hope to complete typescript within the year.
-- Learning about colors for web designing.
-
 <h2 align="left">I code with</h2>
 
 ###
