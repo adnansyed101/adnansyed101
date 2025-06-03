@@ -15,7 +15,7 @@
 ### About Me
 ---
 <div align="center">
-  <p>I am a self taught programmer. I am completing my BBA from ULAB Though my education does not align with my carreer choice, this only shows my dedication towards programming. I belief, I have the knowledge and dedication to satisfy and over deliver the customer needs. Further in life, I want to lead a team of my own and teach them how to be an asset for the firm.</p>
+  <p>I am a self taught programmer. I am able to create large scale products using modern tech stacks like MERN and PERN. I am fluent in Next Js. Currently I am working as a part time junior developer with people from all over the world. I wish to be DevOps engineer and create industry level servers</p>
 </div>
 
 
